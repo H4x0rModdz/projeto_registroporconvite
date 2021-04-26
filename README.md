@@ -1,2 +1,2 @@
 # projeto_registroporconvite
-just a project
+just a project for websites to register by invitation code only.
